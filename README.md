@@ -1,1 +1,1 @@
-A simple calculator simillar to windows calculator in style.
+A simple calculator simillar to windows 10 calculator in style.
